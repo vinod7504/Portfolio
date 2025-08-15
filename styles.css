@@ -218,8 +218,8 @@ body::after {
 }
 
 .profile-photo-container {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     margin: 0 auto;
     border-radius: 50%;
     overflow: hidden;
