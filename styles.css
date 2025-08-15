@@ -234,7 +234,6 @@ body::after {
     transition: transform 0.3s ease;
 }
 
-
 .profile-photo:hover {
     transform: scale(1.05);
 }
